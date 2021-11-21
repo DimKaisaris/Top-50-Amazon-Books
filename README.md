@@ -34,7 +34,6 @@ a **[Presentation](https://github.com/DimKaisaris/Top-50-Amazon-Books/tree/main/
 
 ![](https://github.com/DimKaisaris/Top-50-Amazon-Books/blob/main/Images/Tableau.png)
 
-dsf
 
 
 ## Thank You!
