@@ -19,5 +19,8 @@ To analyze the data I used my **[Analysis Log](https://github.com/DimKaisaris/To
 Used some basic fuctions, pivot tables and charts. Check the **[Bestsellers_No Duplicates](https://github.com/DimKaisaris/Top-50-Amazon-Books/blob/main/Processed%20Files/_Bestsellers%20NO%20Duplicates%20(1).xlsx)** to see the spreadsheet if you please.
 Here's some charts.
 
+### 1) Top10 , Fiction vs Non Fiction
+
+![](https://github.com/DimKaisaris/Top-50-Amazon-Books/blob/main/Images/Non%20Fiction%20and%20Fiction.png)
 
 
