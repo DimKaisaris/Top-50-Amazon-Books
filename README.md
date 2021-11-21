@@ -23,4 +23,9 @@ Here's some charts.
 
 ![](https://github.com/DimKaisaris/Top-50-Amazon-Books/blob/main/Images/Non%20Fiction%20and%20Fiction.png)
 
+### 2) Number of Reviews
+
+![](https://github.com/DimKaisaris/Top-50-Amazon-Books/blob/main/Images/Number%20of%20reviews.png)
+
+
 
