@@ -21,11 +21,11 @@ Here's some charts.
 
 ### 1) Top10 , Fiction vs Non Fiction
 
-![Non Fction and Fiction](Images/Non Fiction and Fiction.png)
+![Non_Fction_and_Fiction](Images/Non_Fiction_and_Fiction.png)
 
 ### 2) Number of Reviews
 
-![Number of reviews](Images/Number of reviews.png)
+![Number of reviews](Images/Number_of_reviews.png)
 
 ## Share Phase
 
