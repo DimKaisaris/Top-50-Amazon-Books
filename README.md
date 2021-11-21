@@ -21,11 +21,11 @@ Here's some charts.
 
 ### 1) Top10 , Fiction vs Non Fiction
 
-![Non Fction and Fiction](https://github.com/DimKaisaris/Top-50-Amazon-Books/blob/main/Images/Non%20Fiction%20and%20Fiction.png)
+![Non Fction and Fiction](images/Non Fiction and Fiction.png)
 
 ### 2) Number of Reviews
 
-![Number of reviews](https://github.com/DimKaisaris/Top-50-Amazon-Books/blob/main/Images/Number%20of%20reviews.png)
+![Number of reviews](images/Number od reviews.png)
 
 ## Share Phase
 
