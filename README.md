@@ -10,5 +10,7 @@ The data show the best sellers over eleven years. You can see the raw data in th
 
 ![](https://github.com/DimKaisaris/Top-50-Amazon-Books/blob/main/Images/Raw_Data.png)
 
+- To clean the data i follow the steps from the [Cleaning Log](https://github.com/DimKaisaris/Top-50-Amazon-Books/blob/main/Processed%20Files/Cleaning%20Log%20C4.docx) 
+
 
 
