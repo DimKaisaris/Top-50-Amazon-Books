@@ -8,7 +8,7 @@
 ## Process Phase
 The data show the best sellers over eleven years. You can see the raw data in this **[Link](https://github.com/DimKaisaris/Top-50-Amazon-Books/tree/main/Raw%20Files)**
 
-![Raw_Data](https://github.com/DimKaisaris/Top-50-Amazon-Books/blob/main/Images/Raw_Data.png)
+![Raw_Data](Images/Raw_Data.png)
 
 To clean the data I follow the steps from the **[Cleaning Log](https://github.com/DimKaisaris/Top-50-Amazon-Books/blob/main/Processed%20Files/Cleaning%20Log%20C4.docx)**
 and all changes which I make during the Process and Analysis Phases I record them in the **[Change Log](https://github.com/DimKaisaris/Top-50-Amazon-Books/tree/main/Processed%20Files)**
