@@ -32,7 +32,7 @@ Here's some charts.
 To share the findings I used my **[Share Log](https://github.com/DimKaisaris/Top-50-Amazon-Books/blob/main/Processed%20Files/Share%20Log%20C4.docx)** and created 
 a **[Presentation](https://github.com/DimKaisaris/Top-50-Amazon-Books/tree/main/Presentation)** and a dashboard in tableau , use **[Link](https://public.tableau.com/app/profile/dimitris.kaisaris4695)**
 
-![](https://github.com/DimKaisaris/Top-50-Amazon-Books/blob/main/Images/Tableau.png)
+![Tableau](Images/Tableau.png)
 
 
 
