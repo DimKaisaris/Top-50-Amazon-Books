@@ -12,3 +12,5 @@ The data show the best sellers over eleven years. You can see the raw data in th
 
 
 ![](Images/Raw_Data.png)
+
+![](Images/Top 50.png)
