@@ -15,7 +15,7 @@ and all changes which I make during the Process and Analysis Phases I record the
 
 ## Analysis Phase
 
-To analyze the data I use my **[Analysis Log](https://github.com/DimKaisaris/Top-50-Amazon-Books/blob/main/Processed%20Files/_Analysis%20Log%20C4.docx)**.
+To analyze the data I used my **[Analysis Log](https://github.com/DimKaisaris/Top-50-Amazon-Books/blob/main/Processed%20Files/_Analysis%20Log%20C4.docx)** to help me out.
 Used some basic fuctions, pivot tables and charts. Check the **[Bestsellers_No Duplicates](https://github.com/DimKaisaris/Top-50-Amazon-Books/blob/main/Processed%20Files/_Bestsellers%20NO%20Duplicates%20(1).xlsx)** to see the spreadsheet if you please.
 Here's some charts.
 
