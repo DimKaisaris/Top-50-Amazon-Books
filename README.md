@@ -8,9 +8,6 @@
 ## Cleaning Process
 The data show the best sellers over eleven years. You can see the raw data in this **[Link](https://github.com/DimKaisaris/Top-50-Amazon-Books/tree/main/Raw%20Files)**
 
-![](Images/Raw_Data.png)
 
-
-![](Images/Raw_Data.png)
 
 ![](https://github.com/DimKaisaris/Top-50-Amazon-Books/blob/main/Images/Top%2050.png)
