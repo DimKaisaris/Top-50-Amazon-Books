@@ -1,3 +1,4 @@
 # Top-50-Amazon-Books
 
-## Data Analysis Project
+## Project overview
+- Genre Comparison, Fiction vs No Fiction
