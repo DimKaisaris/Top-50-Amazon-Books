@@ -11,4 +11,4 @@ The data show the best sellers over eleven years. You can see the raw data in th
 ![](https://github.com/DimKaisaris/Top-50-Amazon-Books/blob/main/Images/Raw_Data.png)
 
 
-![](https://github.com/DimKaisaris/Top-50-Amazon-Books/blob/main/Images/Top%2050.png)
+
