@@ -21,7 +21,7 @@ Here's some charts.
 
 ### 1) Top10 , Fiction vs Non Fiction
 
-![Non_Fction_and_Fiction](Images/Non_Fiction_and_Fiction.png)
+![Non_Fiction_and_Fiction](Images/Non_Fiction_and_Fiction.png)
 
 ### 2) Number of Reviews
 
